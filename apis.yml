@@ -1,7 +1,11 @@
 aid: westlake-chemical
-url: https://raw.githubusercontent.com/api-evangelist/westlake-chemical/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/westlake-chemical/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.westlake-chemical.com
+description: >-
+  Westlake Chemical (now Westlake Corporation) is a global manufacturer and supplier
+  of petrochemicals, polymers, building products, and specialty chemicals.
