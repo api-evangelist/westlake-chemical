@@ -1,0 +1,13 @@
+{
+  "repo": "westlake-chemical",
+  "feeds": [
+    {
+      "source": "https://www.westlake.com/news",
+      "feed_url": "https://www.westlake.com/rss.xml",
+      "saved": 10,
+      "title": "Westlake Chemical"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:38:32Z"
+}
