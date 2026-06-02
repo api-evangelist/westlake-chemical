@@ -1,0 +1,8 @@
+---
+title: Westlake Awards Scholarships to Students of Employees
+url: http://www.westlake.com/westlake-awards-scholarships-students-employees
+date: '2026-05-18'
+author: katherinequiroz
+feed_url: http://www.westlake.com/rss.xml
+---
+Westlake Awards Scholarships to Students of Employees Westlake has recognized and rewarded high-achieving college-bound students of our employees for over 30 years. We received an impressive number of submissions this year, all of which were of outstanding quality. Westlake notified 156 students that they are the new recipients for the 2026-2027 Westlake Dependents Scholarship Program. This annual award continues Westlake’s on-going support of the higher education endeavors for high school students of our employees. Westlake will continue to provide aid for up to four years of undergraduate study, to support well-rounded students who show a love for learning and personal growth. In describing this year’s applications, Katy Theroux, Westlake’s Chief Human Resources Officer, stated, “Research shows that individuals with a balanced background and diverse skill set are better positioned to grow and thrive in their personal and professional lives. With this in mind, the Westlake Dependent Scholarship Program gives us the opportunity to recognize students who not only value education, but also have interests outside the classroom — whether it’s volunteering for a worthy cause, engaging in civic programs, participating in youth sports, or enjoying activities with family and friends. We congratulate this year’s recipients and are proud to invest in their future.” katherinequiroz Mon, 05/18/2026 - 10:46
