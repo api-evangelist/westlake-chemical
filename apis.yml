@@ -17,6 +17,8 @@ created: '2026-03-24'
 modified: '2026-05-03'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/westlake-chemical-domain-security.yml
   - type: Website
     url: https://www.westlake.com
   - type: Portal
