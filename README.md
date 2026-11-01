@@ -1,4 +1,4 @@
-# Westlake Chemical (westlake-chemical)
+# Westlake Chemical
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,61 +66,81 @@
 
 Westlake Chemical (now Westlake Corporation) is a global manufacturer and supplier of petrochemicals, polymers, building products, and specialty chemicals. The company produces ethylene, polyethylene, PVC, chlor-alkali, epoxy resins, and fabricated building products serving packaging, healthcare, automotive, consumer goods, and construction markets worldwide.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/westlake-chemical/refs/heads/main/apis.yml)
+**Areas:** Chemicals · Petrochemicals · Polymers · Manufacturing · Building Products
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Westlake Chemical on APIs.io
 
-## Tags:
+Everything profiled for Westlake Chemical is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/westlake-chemical/](https://apis.io/providers/westlake-chemical/)** — or go straight to one of the APIs or properties below.
 
- - Chemicals, Petrochemicals, Polymers, Manufacturing, Building Products
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-03
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented yet. Contributions welcome.
+- [Westlake Chemical Domain Security](https://apis.io/security/westlake-chemical/westlake-chemical-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.westlake.com)
-- [Portal](https://www.westlake.com/products)
 - [Pricing](https://www.westlake.com/contact)
 - [Blog](https://www.westlake.com/news)
-- [LinkedIn](https://www.linkedin.com/company/westlake-corporation)
-- [TermsOfService](https://www.westlake.com/legal)
-- [PrivacyPolicy](https://www.westlake.com/privacy-policy)
+- [Terms of service](https://www.westlake.com/legal)
+- [Privacy policy](https://www.westlake.com/privacy-policy)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Petrochemicals | Production of ethylene, polyethylene, and chlor-alkali products for industrial and consumer markets globally. |
-| Specialty Chemicals | Epoxy resins and composites for high-performance applications in electronics, aerospace, and infrastructure. |
-| Building Products | PVC pipe and fittings, vinyl siding, windows, and related infrastructure products for construction markets. |
-| Polymers | PVC, vinyl chloride monomer, and recycled plastic materials for packaging, healthcare, and automotive industries. |
-| Global Distribution | Manufacturing facilities and distribution networks across North America, Europe, and Asia supporting global supply chains. |
+**Kin Score 10.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 21.1 |
 
-| Name | Description |
-|------|-------------|
-| Packaging Materials | Supply of polyethylene and PVC resins for flexible and rigid packaging applications in food, beverage, and consumer goods. |
-| Construction Materials | PVC pipe systems, vinyl building products, and composites for residential and commercial construction projects. |
-| Healthcare Products | Medical-grade PVC and specialty polymers for tubing, bags, and devices used in healthcare settings. |
-| Automotive Components | Engineered polymers and epoxy composites for lightweight automotive parts and structural components. |
+**Agent readiness 0.0** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| SAP ERP | Enterprise resource planning integration for supply chain management, order processing, and procurement workflows. |
-| EDI Trading Partners | Electronic Data Interchange connectivity for B2B order management and supplier/customer transaction processing. |
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/westlake-chemical/](https://apis.io/providers/westlake-chemical/).
 
-**FN:** API Evangelist
+## How this profile is made
 
-**Email:** info@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Westlake Chemical: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/westlake-chemical/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
